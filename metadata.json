@@ -1,0 +1,6 @@
+{
+  "name": "AI Recipe Assistant",
+  "description": "Suggests suitable recipes based on ingredients you have at home using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
